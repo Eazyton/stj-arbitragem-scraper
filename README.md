@@ -1,4 +1,4 @@
-# STJ Arbitragem Web Scraper
+# STJ Arbitragem Web Scraper (Feito 100% por A.I)
 
 Web scraper desenvolvido para extrair acórdãos sobre arbitragem do site do STJ (Superior Tribunal de Justiça).
 
